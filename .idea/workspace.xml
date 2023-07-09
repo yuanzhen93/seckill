@@ -1,20 +1,64 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="85452678-8b85-4c65-a2b2-310b4c669ed5" name="Default Changelist" comment="" />
+    <list default="true" id="85452678-8b85-4c65-a2b2-310b4c669ed5" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commodity-service/src/main/java/com/gupao/commodity/controller/CommodityController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/commodity-service/src/main/java/com/gupao/commodity/model/CommodityInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gateway/src/main/java/com/gupao/gateway/GatewayApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seckill-service/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seckill-service/src/main/java/com/gupao/seckill/dao/SeckillDetailMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seckill-service/src/main/java/com/gupao/seckill/dto/SeckillDetailDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seckill-service/src/main/java/com/gupao/seckill/model/SeckillDtail.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seckill-service/src/main/java/com/gupao/seckill/service/ISeckillService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/seckill-service/src/main/java/com/gupao/seckill/service/Impl/SeckillServiceImpl.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-service/user-service.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-starter/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-starter/src/main/java/com/gupao/user/starter/annotation/LoginUserId.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-starter/src/main/java/com/gupao/user/starter/annotation/LoginUserIdResolver.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-starter/src/main/java/com/gupao/user/starter/autoconfig/UserAutoConfigration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/user-starter/src/main/resources/META-INF/spring.factories" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commodity-service/commodity-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/commodity-service/commodity-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/commodity-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/commodity-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway-service/gateway-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/gateway/gateway.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gateway-service/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/user-service/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/order-service/order-service.iml" beforeDir="false" afterPath="$PROJECT_DIR$/order-service/order-service.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="AnnotationType" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="2RpxEmMRKSPgoOo7DdGaQB50FD5" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="project.structure.last.edited" value="Project" />
-    <property name="project.structure.proportion" value="0.0" />
-    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="org.mvnsearch.intellij.plugin.zookeeper.ui.ZkProjectConfigurable" />
   </component>
   <component name="RunDashboard">
@@ -39,11 +83,27 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1687960714166</updated>
-      <workItem from="1687960717210" duration="877000" />
+      <workItem from="1687960717210" duration="3903000" />
+      <workItem from="1688267252122" duration="3021000" />
+      <workItem from="1688477648142" duration="1765000" />
+      <workItem from="1688563949075" duration="6791000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
